@@ -14,7 +14,7 @@ public class Solution {
             }
         }return index;
 
-    
+    // Prefix sum
         int N = A.length;
         int P[] = new int [N];
         P[0] = A[0];
